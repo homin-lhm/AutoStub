@@ -137,3 +137,9 @@ msg = {
 
 fileAppStub.send(msg)  # 将定义好的返回体返回给桩
 ```
+
+
+
+# 作者联系方式
+vx：hmggtester（添加备注下来自git）
+phone： 15017111391
