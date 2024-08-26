@@ -1,0 +1,58 @@
+[STEP]22:01:12:555-test_major.py:22 >> A用户请求编辑锁协作接口
+[STEP]22:08:28:065-test_major.py:22 >> A用户请求编辑锁协作接口
+[STEP]22:09:29:920-test_major.py:22 >> A用户请求编辑锁协作接口
+[STEP]22:10:30:606-test_major.py:22 >> A用户请求编辑锁协作接口
+[STEP]22:11:18:480-test_major.py:22 >> A用户请求编辑锁协作接口
+[STEP]22:12:47:175-test_major.py:22 >> A用户请求编辑锁协作接口
+[INFO]22:12:49:223-test_major.py:40 >> 403
+[INFO]22:12:49:224-test_major.py:41 >> {
+  "msg": "edit fail, A edit ing"
+}
+
+[STEP]22:14:14:997-test_major.py:22 >> A用户请求编辑锁协作接口
+[INFO]22:14:17:070-test_major.py:40 >> 200
+[INFO]22:14:17:071-test_major.py:41 >> {
+  "msg": "edit success"
+}
+
+[STEP]22:14:17:072-test_major.py:48 >> B用户请求编辑锁协作接口
+[STEP]22:14:49:096-test_major.py:22 >> A用户请求编辑锁协作接口
+[INFO]22:14:51:165-test_major.py:40 >> 200
+[INFO]22:14:51:166-test_major.py:41 >> {
+  "msg": "edit success"
+}
+
+[STEP]22:14:51:167-test_major.py:48 >> B用户请求编辑锁协作接口
+[STEP]22:15:25:110-test_major.py:22 >> A用户请求编辑锁协作接口
+[INFO]22:15:27:160-test_major.py:40 >> 200
+[INFO]22:15:27:161-test_major.py:41 >> {
+  "msg": "edit success"
+}
+
+[STEP]22:15:27:162-test_major.py:48 >> B用户请求编辑锁协作接口
+[STEP]22:16:08:149-test_major.py:22 >> A用户请求编辑锁协作接口
+[INFO]22:16:10:219-test_major.py:40 >> 200
+[INFO]22:16:10:220-test_major.py:41 >> {
+  "msg": "edit success"
+}
+
+[STEP]22:16:10:220-test_major.py:48 >> B用户请求编辑锁协作接口
+[STEP]22:19:07:006-test_handle.py:22 >> A用户请求编辑锁协作接口
+[INFO]22:19:13:080-test_handle.py:41 >> 504
+[INFO]22:19:13:081-test_handle.py:42 >> {
+  "msg": "SERVER TIMEOUT"
+}
+
+[STEP]22:19:13:110-test_handle.py:51 >> A用户请求编辑锁协作接口
+[INFO]22:19:15:130-test_handle.py:69 >> 500
+[INFO]22:19:15:131-test_handle.py:70 >> {
+  "msg": "SERVER ERROR"
+}
+
+[STEP]22:19:15:158-test_major.py:22 >> A用户请求编辑锁协作接口
+[INFO]22:19:17:175-test_major.py:40 >> 200
+[INFO]22:19:17:176-test_major.py:41 >> {
+  "msg": "edit success"
+}
+
+[STEP]22:19:17:177-test_major.py:48 >> B用户请求编辑锁协作接口

@@ -1,0 +1,6 @@
+[ERROR]docteamApp.py:180-15:02:45.004-re_id: 1688626964995_id, error: file server response code - 403, response body - {"msg":"fail"}
+
+[ERROR]docteamApp.py:180-15:03:45.962-re_id: 1688627025933_id, error: file server response code - 403, response body - {"msg":"fail"}
+
+[ERROR]docteamApp.py:180-15:07:03.807-re_id: 1688627223777_id, error: file server response code - 403, response body - {"msg":"fail"}
+

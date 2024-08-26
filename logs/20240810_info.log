@@ -1,0 +1,80 @@
+[INFO]15:33:42:006-caseLogs.py:29 >> testCase01 XXXXXXX
+[INFO]15:34:13:231-caseLogs.py:29 >> testCase01 XXXXXXX
+[INFO]15:36:08:609-caseLogs.py:48 >> testCase01 XXXXXXX
+[ERROR]15:36:08:610-caseLogs.py:49 >> 接口出问题了
+[STEP]15:36:08:610-caseLogs.py:50 >> 开始请求
+[STEP]15:37:11:900-test_major.py:18 >> TestGroupCreateMajor
+[STEP]15:37:11:901-test_major.py:19 >> testCase01_major
+[STEP]15:37:11:902-test_major.py:20 >> 新增分组的主流程
+[STEP]15:37:11:903-test_major.py:34 >> 【step】新增分组
+[INFO]15:37:11:904-test_major.py:35 >> re url: http://note-api.wps.cn/v3/notesvr/set/notegroup
+[INFO]15:37:11:906-test_major.py:36 >> re headers: {'Cookie': 'wps_sid=V02SL9txH_cJPTIUPyg0DO65PZgklCI00a28340c0036f58bfd', 'X-user-key': '922061821'}
+[INFO]15:37:11:906-test_major.py:37 >> re body: {'groupId': '1723275431903_groupId', 'groupName': 'groupName1', 'order': 0}
+[INFO]15:37:12:028-test_major.py:39 >> res code: 200
+[INFO]15:37:12:029-test_major.py:40 >> res body: {"responseTime":24,"updateTime":1723275437789}
+[INFO]15:57:46:013-caseLogs.py:54 >> Method Name:testCase01_major, Class Name:TestGroupCreateMajor, Test Description:新增分组的主流程
+[STEP]15:57:46:015-test_major.py:32 >> 【step】新增分组
+[INFO]15:57:46:016-test_major.py:33 >> re url: http://note-api.wps.cn/v3/notesvr/set/notegroup
+[INFO]15:57:46:017-test_major.py:34 >> re headers: {'Cookie': 'wps_sid=V02SL9txH_cJPTIUPyg0DO65PZgklCI00a28340c0036f58bfd', 'X-user-key': '922061821'}
+[INFO]15:57:46:018-test_major.py:35 >> re body: {'groupId': '1723276666014_groupId', 'groupName': 'groupName1', 'order': 0}
+[INFO]15:57:46:133-test_major.py:37 >> res code: 200
+[INFO]15:57:46:134-test_major.py:38 >> res body: {"responseTime":26,"updateTime":1723276672026}
+[STEP]15:58:33:277-caseLogs.py:54 >> Method Name:testCase01_major, Class Name:TestGroupCreateMajor
+[STEP]15:58:33:278-caseLogs.py:55 >> Test Description:新增分组的主流程
+[STEP]15:58:33:279-test_major.py:32 >> 【step】新增分组
+[INFO]15:58:33:280-test_major.py:33 >> re url: http://note-api.wps.cn/v3/notesvr/set/notegroup
+[INFO]15:58:33:281-test_major.py:34 >> re headers: {'Cookie': 'wps_sid=V02SL9txH_cJPTIUPyg0DO65PZgklCI00a28340c0036f58bfd', 'X-user-key': '922061821'}
+[INFO]15:58:33:283-test_major.py:35 >> re body: {'groupId': '1723276713278_groupId', 'groupName': 'groupName1', 'order': 0}
+[INFO]15:58:33:394-test_major.py:37 >> res code: 200
+[INFO]15:58:33:395-test_major.py:38 >> res body: {"responseTime":24,"updateTime":1723276719294}
+[STEP]15:59:07:425-caseLogs.py:54 >> Method Name:testCase01_major, Class Name:TestGroupCreateMajor
+[STEP]15:59:07:426-caseLogs.py:55 >> Test Description:新增分组的主流程
+[STEP]15:59:07:427-test_major.py:32 >> 【step】新增分组
+[INFO]15:59:07:429-test_major.py:33 >> re url: http://note-api.wps.cn/v3/notesvr/set/notegroup
+[INFO]15:59:07:430-test_major.py:34 >> re headers: {'Cookie': 'wps_sid=V02SL9txH_cJPTIUPyg0DO65PZgklCI00a28340c0036f58bfd', 'X-user-key': '922061821'}
+[INFO]15:59:07:431-test_major.py:35 >> re body: {'groupId': '1723276747426_groupId', 'groupName': 'groupName1', 'order': 0}
+[INFO]15:59:07:546-test_major.py:37 >> res code: 200
+[INFO]15:59:07:547-test_major.py:38 >> res body: {"responseTime":24,"updateTime":1723276753448}
+[STEP]15:59:07:895-caseLogs.py:54 >> Method Name:testCase02_must_key_remove, Class Name:TestGroupCreateMajor
+[STEP]15:59:07:896-caseLogs.py:55 >> Test Description:新增分组  groupId key remove
+[STEP]16:00:25:012-caseLogs.py:54 >> Method Name:testCase01_major, Class Name:TestGroupCreateMajor
+[STEP]16:00:25:013-caseLogs.py:55 >> Test Description:新增分组的主流程
+[STEP]16:00:25:014-test_major.py:32 >> 【step】新增分组
+[INFO]16:00:25:015-test_major.py:33 >> re url: http://note-api.wps.cn/v3/notesvr/set/notegroup
+[INFO]16:00:25:016-test_major.py:34 >> re headers: {'Cookie': 'wps_sid=V02SL9txH_cJPTIUPyg0DO65PZgklCI00a28340c0036f58bfd', 'X-user-key': '922061821'}
+[INFO]16:00:25:017-test_major.py:35 >> re body: {'groupId': '1723276825013_groupId', 'groupName': 'groupName1', 'order': 0}
+[INFO]16:00:25:140-test_major.py:37 >> res code: 200
+[INFO]16:00:25:142-test_major.py:38 >> res body: {"responseTime":25,"updateTime":1723276831084}
+[STEP]16:00:25:475-caseLogs.py:54 >> Method Name:testCase02_must_key_remove, Class Name:TestGroupCreateMajor
+[STEP]16:00:25:476-caseLogs.py:55 >> Test Description:新增分组  groupId key remove
+[STEP]16:00:31:203-caseLogs.py:54 >> Method Name:testCase01_major, Class Name:TestGroupCreateMajor
+[STEP]16:00:31:204-caseLogs.py:55 >> Test Description:新增分组的主流程
+[STEP]16:00:31:206-test_major.py:32 >> 【step】新增分组
+[INFO]16:00:31:207-test_major.py:33 >> re url: http://note-api.wps.cn/v3/notesvr/set/notegroup
+[INFO]16:00:31:208-test_major.py:34 >> re headers: {'Cookie': 'wps_sid=V02SL9txH_cJPTIUPyg0DO65PZgklCI00a28340c0036f58bfd', 'X-user-key': '922061821'}
+[INFO]16:00:31:209-test_major.py:35 >> re body: {'groupId': '1723276831205_groupId', 'groupName': 'groupName1', 'order': 0}
+[INFO]16:00:31:323-test_major.py:37 >> res code: 200
+[INFO]16:00:31:325-test_major.py:38 >> res body: {"responseTime":23,"updateTime":1723276837266}
+[STEP]16:02:27:070-caseLogs.py:54 >> Method Name:testCase01_major, Class Name:TestGroupCreateMajor
+[STEP]16:02:27:071-caseLogs.py:55 >> Test Description:新增分组的主流程
+[STEP]16:02:27:072-test_major.py:32 >> 【step】新增分组
+[INFO]16:02:27:073-test_major.py:33 >> re url: http://note-api.wps.cn/v3/notesvr/set/notegroup
+[INFO]16:02:27:074-test_major.py:34 >> re headers: {'Cookie': 'wps_sid=V02SL9txH_cJPTIUPyg0DO65PZgklCI00a28340c0036f58bfd', 'X-user-key': '922061821'}
+[INFO]16:02:27:075-test_major.py:35 >> re body: {'groupId': '1723276947071_groupId', 'groupName': 'groupName1', 'order': 0}
+[INFO]16:02:27:186-test_major.py:37 >> res code: 200
+[INFO]16:02:27:187-test_major.py:38 >> res body: {"responseTime":24,"updateTime":1723276953109}
+[STEP]16:02:27:532-caseLogs.py:54 >> Method Name:testCase02_must_key_remove, Class Name:TestGroupCreateMajor
+[STEP]16:02:27:535-caseLogs.py:55 >> Test Description:新增分组  groupId key remove
+[STEP]16:17:12:099-caseLogs.py:54 >> Method Name:testCase01_major, Class Name:TestGroupCreateMajor
+[STEP]16:17:12:100-caseLogs.py:55 >> Test Description:新增分组的主流程
+[STEP]16:17:12:102-test_major.py:30 >> 【step】新增分组
+[INFO]16:17:12:103-httpReMethod.py:8 >> send url: http://note-api.wps.cn/v3/notesvr/set/notegroup
+[INFO]16:17:12:104-httpReMethod.py:9 >> send headers: None
+[INFO]16:17:12:105-httpReMethod.py:10 >> send body: {'groupId': '1723277832101_groupId', 'groupName': 'groupName1', 'order': 0}
+[INFO]16:17:12:218-httpReMethod.py:24 >> recv code: 200
+[INFO]16:17:12:219-httpReMethod.py:25 >> recv body: {"responseTime":22,"updateTime":1723277838201}
+[INFO]16:17:12:220-httpReMethod.py:8 >> send url: http://note-api.wps.cn/v3/notesvr/get/notegroup
+[INFO]16:17:12:221-httpReMethod.py:9 >> send headers: None
+[INFO]16:17:12:223-httpReMethod.py:10 >> send body: {'excludeInValid': True}
+[INFO]16:17:12:353-httpReMethod.py:24 >> recv code: 200
+[INFO]16:17:12:354-httpReMethod.py:25 >> recv body: {"noteGroups":[{"userId":"922061821","groupId":"1723277832101_groupId","groupName":"groupName1","order":0,"valid":1,"updateTime":1723277838201}],"requestTime":1723277838309}

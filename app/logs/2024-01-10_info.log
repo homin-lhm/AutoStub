@@ -1,0 +1,77 @@
+[INFO]docteamApp.py:159-23:23:44.527-user ip:127.0.0.1, re_id:1704900224527_id
+[INFO]docteamApp.py:162-23:23:44.568-re_id: 1704900224527_id, log: {'file_id': '110', 'status': 'edit'}
+[INFO]docteamApp.py:163-23:23:44.569-re_id: 1704900224527_id, log: ImmutableMultiDict([('user_id', 'A')])
+[INFO]docteamApp.py:175-23:23:44.570-re_id: 1704900224527_id, log: check file
+[INFO]docteamApp.py:186-23:23:44.592-re_id: 1704900224527_id, log: sql handles
+[INFO]docteamApp.py:194-23:23:44.651-re_id: 1704900224527_id, log: sql res- None
+[INFO]docteamApp.py:159-23:23:55.784-user ip:127.0.0.1, re_id:1704900235784_id
+[INFO]docteamApp.py:162-23:23:55.785-re_id: 1704900235784_id, log: {'file_id': '110', 'status': 'edit'}
+[INFO]docteamApp.py:163-23:23:55.787-re_id: 1704900235784_id, log: ImmutableMultiDict([('user_id', 'B')])
+[INFO]docteamApp.py:175-23:23:55.788-re_id: 1704900235784_id, log: check file
+[INFO]docteamApp.py:186-23:23:55.816-re_id: 1704900235784_id, log: sql handles
+[INFO]docteamApp.py:194-23:23:55.840-re_id: 1704900235784_id, log: sql res- ('110', 'A', 'edit')
+[INFO]docteamApp.py:159-23:25:09.557-user ip:127.0.0.1, re_id:1704900309557_id
+[INFO]docteamApp.py:162-23:25:09.558-re_id: 1704900309557_id, log: {'file_id': '110', 'status': 'edit'}
+[INFO]docteamApp.py:163-23:25:09.559-re_id: 1704900309557_id, log: ImmutableMultiDict([('user_id', 'B')])
+[INFO]docteamApp.py:175-23:25:09.561-re_id: 1704900309557_id, log: check file
+[INFO]docteamApp.py:186-23:25:09.567-re_id: 1704900309557_id, log: sql handles
+[INFO]docteamApp.py:194-23:25:09.583-re_id: 1704900309557_id, log: sql res- None
+[INFO]docteamApp.py:159-23:26:20.331-user ip:127.0.0.1, re_id:1704900380331_id
+[INFO]docteamApp.py:162-23:26:20.334-re_id: 1704900380331_id, log: {'file_id': '110', 'status': 'edit'}
+[INFO]docteamApp.py:163-23:26:20.336-re_id: 1704900380331_id, log: ImmutableMultiDict([('user_id', 'B')])
+[INFO]docteamApp.py:175-23:26:20.338-re_id: 1704900380331_id, log: check file
+[INFO]docteamApp.py:186-23:26:20.345-re_id: 1704900380331_id, log: sql handles
+[INFO]docteamApp.py:194-23:26:20.363-re_id: 1704900380331_id, log: sql res- ('110', 'B', 'edit')
+[INFO]docteamApp.py:159-23:27:17.756-user ip:192.168.2.10, re_id:1704900437756_id
+[INFO]docteamApp.py:162-23:27:17.757-re_id: 1704900437756_id, log: {'file_id': '110', 'status': 'edit'}
+[INFO]docteamApp.py:163-23:27:17.758-re_id: 1704900437756_id, log: ImmutableMultiDict([('user_id', 'B')])
+[INFO]docteamApp.py:175-23:27:17.759-re_id: 1704900437756_id, log: check file
+[INFO]docteamApp.py:186-23:27:17.766-re_id: 1704900437756_id, log: sql handles
+[INFO]docteamApp.py:159-23:27:59.259-user ip:192.168.2.10, re_id:1704900479259_id
+[INFO]docteamApp.py:162-23:27:59.328-re_id: 1704900479259_id, log: {'file_id': '110', 'status': 'edit'}
+[INFO]docteamApp.py:163-23:27:59.330-re_id: 1704900479259_id, log: ImmutableMultiDict([('user_id', 'B')])
+[INFO]docteamApp.py:175-23:27:59.331-re_id: 1704900479259_id, log: check file
+[INFO]docteamApp.py:186-23:27:59.357-re_id: 1704900479259_id, log: sql handles
+[INFO]docteamApp.py:194-23:27:59.372-re_id: 1704900479259_id, log: sql res- ('110', 'B', 'edit')
+[INFO]docteamApp.py:159-23:29:26.608-user ip:192.168.2.10, re_id:1704900566608_id
+[INFO]docteamApp.py:162-23:29:26.610-re_id: 1704900566608_id, log: {'file_id': '110', 'status': 'edit'}
+[INFO]docteamApp.py:163-23:29:26.611-re_id: 1704900566608_id, log: ImmutableMultiDict([('user_id', 'B')])
+[INFO]docteamApp.py:175-23:29:26.612-re_id: 1704900566608_id, log: check file
+[INFO]docteamApp.py:186-23:29:28.648-re_id: 1704900566608_id, log: sql handles
+[INFO]docteamApp.py:194-23:29:28.666-re_id: 1704900566608_id, log: sql res- ('110', 'B', 'edit')
+[INFO]docteamApp.py:159-23:30:04.418-user ip:192.168.2.10, re_id:1704900604418_id
+[INFO]docteamApp.py:162-23:30:04.422-re_id: 1704900604418_id, log: {'file_id': '110', 'status': 'edit'}
+[INFO]docteamApp.py:163-23:30:04.424-re_id: 1704900604418_id, log: ImmutableMultiDict([('user_id', 'B')])
+[INFO]docteamApp.py:175-23:30:04.427-re_id: 1704900604418_id, log: check file
+[INFO]docteamApp.py:186-23:30:06.485-re_id: 1704900604418_id, log: sql handles
+[INFO]docteamApp.py:194-23:30:06.516-re_id: 1704900604418_id, log: sql res- ('110', 'B', 'edit')
+[INFO]docteamApp.py:159-23:32:18.945-user ip:192.168.2.10, re_id:1704900738945_id
+[INFO]docteamApp.py:162-23:32:18.985-re_id: 1704900738945_id, log: {'file_id': '110', 'status': 'edit'}
+[INFO]docteamApp.py:163-23:32:18.986-re_id: 1704900738945_id, log: ImmutableMultiDict([('user_id', 'B')])
+[INFO]docteamApp.py:175-23:32:18.987-re_id: 1704900738945_id, log: check file
+[INFO]docteamApp.py:159-23:33:29.895-user ip:192.168.2.10, re_id:1704900809895_id
+[INFO]docteamApp.py:162-23:33:29.897-re_id: 1704900809895_id, log: {'file_id': '110', 'status': 'edit'}
+[INFO]docteamApp.py:163-23:33:29.898-re_id: 1704900809895_id, log: ImmutableMultiDict([('user_id', 'B')])
+[INFO]docteamApp.py:175-23:33:29.899-re_id: 1704900809895_id, log: check file
+[INFO]docteamApp.py:187-23:33:31.935-re_id: 1704900809895_id, log: sql handles
+[INFO]docteamApp.py:195-23:33:31.953-re_id: 1704900809895_id, log: sql res- ('110', 'B', 'edit')
+[INFO]docteamApp.py:159-23:37:01.098-user ip:192.168.2.10, re_id:1704901021098_id
+[INFO]docteamApp.py:162-23:37:01.099-re_id: 1704901021098_id, log: {'file_id': '110', 'status': 'edit'}
+[INFO]docteamApp.py:163-23:37:01.100-re_id: 1704901021098_id, log: ImmutableMultiDict([('user_id', 'B')])
+[INFO]docteamApp.py:175-23:37:01.101-re_id: 1704901021098_id, log: check file
+[INFO]docteamApp.py:159-23:38:59.736-user ip:192.168.2.10, re_id:1704901139736_id
+[INFO]docteamApp.py:162-23:38:59.777-re_id: 1704901139736_id, log: {'file_id': '110', 'status': 'edit'}
+[INFO]docteamApp.py:163-23:38:59.779-re_id: 1704901139736_id, log: ImmutableMultiDict([('user_id', 'B')])
+[INFO]docteamApp.py:175-23:38:59.780-re_id: 1704901139736_id, log: check file
+[INFO]docteamApp.py:159-23:40:08.176-user ip:192.168.2.10, re_id:1704901208176_id
+[INFO]docteamApp.py:162-23:40:08.228-re_id: 1704901208176_id, log: {'file_id': '110', 'status': 'edit'}
+[INFO]docteamApp.py:163-23:40:08.230-re_id: 1704901208176_id, log: ImmutableMultiDict([('user_id', 'B')])
+[INFO]docteamApp.py:175-23:40:08.231-re_id: 1704901208176_id, log: check file
+[INFO]docteamApp.py:159-23:41:57.064-user ip:192.168.2.10, re_id:1704901317064_id
+[INFO]docteamApp.py:162-23:41:57.152-re_id: 1704901317064_id, log: {'file_id': '110', 'status': 'edit'}
+[INFO]docteamApp.py:163-23:41:57.154-re_id: 1704901317064_id, log: ImmutableMultiDict([('user_id', 'B')])
+[INFO]docteamApp.py:175-23:41:57.157-re_id: 1704901317064_id, log: check file
+[INFO]docteamApp.py:159-23:42:19.939-user ip:192.168.2.10, re_id:1704901339939_id
+[INFO]docteamApp.py:162-23:42:19.979-re_id: 1704901339939_id, log: {'file_id': '110', 'status': 'edit'}
+[INFO]docteamApp.py:163-23:42:19.980-re_id: 1704901339939_id, log: ImmutableMultiDict([('user_id', 'B')])
+[INFO]docteamApp.py:175-23:42:19.981-re_id: 1704901339939_id, log: check file

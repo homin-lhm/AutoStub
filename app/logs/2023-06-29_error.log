@@ -1,0 +1,104 @@
+[ERROR]docteamApp.py:144-13:32:50.566-re_id: 1688016770496_id, error: file server response code - 500, response body - <!doctype html>
+<html lang=en>
+<title>500 Internal Server Error</title>
+<h1>Internal Server Error</h1>
+<p>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.</p>
+
+[ERROR]docteamApp.py:144-13:34:24.088-re_id: 1688016864036_id, error: file server response code - 500, response body - <!doctype html>
+<html lang=en>
+<title>500 Internal Server Error</title>
+<h1>Internal Server Error</h1>
+<p>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.</p>
+
+[ERROR]docteamApp.py:144-13:47:03.919-re_id: 1688017623866_id, error: file server response code - 415, response body - <!doctype html>
+<html lang=en>
+<title>415 Unsupported Media Type</title>
+<h1>Unsupported Media Type</h1>
+<p>Did not attempt to load JSON data because the request Content-Type was not &#39;application/json&#39;.</p>
+
+[ERROR]docteamApp.py:144-13:51:21.787-re_id: 1688017881737_id, error: file server response code - 888, response body - {}
+
+[ERROR]docteamApp.py:159-13:56:24.234-re_id: 1688018184181_id, error: file server response code - 500, response body - <!doctype html>
+<html lang=en>
+<title>500 Internal Server Error</title>
+<h1>Internal Server Error</h1>
+<p>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.</p>
+
+[ERROR]docteamApp.py:160-14:00:14.347-re_id: 1688018414297_id, error: file server response code - 500, response body - <!doctype html>
+<html lang=en>
+<title>500 Internal Server Error</title>
+<h1>Internal Server Error</h1>
+<p>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.</p>
+
+[ERROR]docteamApp.py:160-21:33:36.494-re_id: 1688045616488_id, error: file server response code - 500, response body - <!doctype html>
+<html lang=en>
+<title>500 Internal Server Error</title>
+<h1>Internal Server Error</h1>
+<p>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.</p>
+
+[ERROR]docteamApp.py:160-21:33:37.698-re_id: 1688045617693_id, error: file server response code - 500, response body - <!doctype html>
+<html lang=en>
+<title>500 Internal Server Error</title>
+<h1>Internal Server Error</h1>
+<p>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.</p>
+
+[ERROR]docteamApp.py:160-21:33:38.361-re_id: 1688045618356_id, error: file server response code - 500, response body - <!doctype html>
+<html lang=en>
+<title>500 Internal Server Error</title>
+<h1>Internal Server Error</h1>
+<p>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.</p>
+
+[ERROR]docteamApp.py:145-21:38:01.894-re_id: 1688045881888_id, error: file server response code - 500, response body - <!doctype html>
+<html lang=en>
+<title>500 Internal Server Error</title>
+<h1>Internal Server Error</h1>
+<p>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.</p>
+
+[ERROR]docteamApp.py:145-21:38:02.623-re_id: 1688045882618_id, error: file server response code - 500, response body - <!doctype html>
+<html lang=en>
+<title>500 Internal Server Error</title>
+<h1>Internal Server Error</h1>
+<p>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.</p>
+
+[ERROR]docteamApp.py:145-21:38:04.074-re_id: 1688045884067_id, error: file server response code - 500, response body - <!doctype html>
+<html lang=en>
+<title>500 Internal Server Error</title>
+<h1>Internal Server Error</h1>
+<p>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.</p>
+
+[ERROR]docteamApp.py:145-21:38:04.762-re_id: 1688045884757_id, error: file server response code - 500, response body - <!doctype html>
+<html lang=en>
+<title>500 Internal Server Error</title>
+<h1>Internal Server Error</h1>
+<p>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.</p>
+
+[ERROR]docteamApp.py:145-21:38:05.328-re_id: 1688045885323_id, error: file server response code - 500, response body - <!doctype html>
+<html lang=en>
+<title>500 Internal Server Error</title>
+<h1>Internal Server Error</h1>
+<p>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.</p>
+
+[ERROR]docteamApp.py:145-21:38:05.787-re_id: 1688045885778_id, error: file server response code - 500, response body - <!doctype html>
+<html lang=en>
+<title>500 Internal Server Error</title>
+<h1>Internal Server Error</h1>
+<p>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.</p>
+
+[ERROR]docteamApp.py:145-21:38:06.292-re_id: 1688045886287_id, error: file server response code - 500, response body - <!doctype html>
+<html lang=en>
+<title>500 Internal Server Error</title>
+<h1>Internal Server Error</h1>
+<p>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.</p>
+
+[ERROR]docteamApp.py:145-21:38:07.000-re_id: 1688045886994_id, error: file server response code - 500, response body - <!doctype html>
+<html lang=en>
+<title>500 Internal Server Error</title>
+<h1>Internal Server Error</h1>
+<p>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.</p>
+
+[ERROR]docteamApp.py:145-21:38:07.496-re_id: 1688045887489_id, error: file server response code - 500, response body - <!doctype html>
+<html lang=en>
+<title>500 Internal Server Error</title>
+<h1>Internal Server Error</h1>
+<p>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.</p>
+

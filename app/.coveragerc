@@ -1,0 +1,10 @@
+[run]
+omit =
+    main.py
+    fileApp.py
+    __init__.py
+    */__init__.py
+    customs_logs.py
+    config.yml
+    logs
+

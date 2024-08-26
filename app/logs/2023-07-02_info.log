@@ -1,0 +1,6 @@
+[INFO]docteamApp.py:139-18:30:59.760-user ip:127.0.0.1, re_id:1688293859760_id
+[INFO]docteamApp.py:142-18:30:59.801-re_id: 1688293859760_id, log: {'file_id': '121', 'status': 'open'}
+[INFO]docteamApp.py:143-18:30:59.802-re_id: 1688293859760_id, log: ImmutableMultiDict([('user_id', '009')])
+[INFO]docteamApp.py:155-18:30:59.803-re_id: 1688293859760_id, log: check file
+[INFO]docteamApp.py:165-18:30:59.807-re_id: 1688293859760_id, log: sql handles
+[INFO]docteamApp.py:193-18:30:59.816-re_id: 1688293859760_id, log: sql res- ('121', '009', 'open')

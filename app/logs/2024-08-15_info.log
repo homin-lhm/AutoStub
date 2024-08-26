@@ -1,0 +1,12 @@
+[INFO]docteamApp.py:159-21:47:32.763-user ip:192.168.1.14, re_id:1723729652763_id
+[INFO]docteamApp.py:162-21:47:32.809-re_id: 1723729652763_id, log: {'file_id': '188', 'status': 'edit'}
+[INFO]docteamApp.py:163-21:47:32.810-re_id: 1723729652763_id, log: ImmutableMultiDict([('user_id', 'A')])
+[INFO]docteamApp.py:175-21:47:32.812-re_id: 1723729652763_id, log: check file
+[INFO]docteamApp.py:191-21:47:32.816-re_id: 1723729652763_id, log: sql handles
+[INFO]docteamApp.py:199-21:47:32.825-re_id: 1723729652763_id, log: sql res- ('188', 'A', 'edit')
+[INFO]docteamApp.py:159-21:48:18.432-user ip:192.168.1.14, re_id:1723729698432_id
+[INFO]docteamApp.py:162-21:48:18.434-re_id: 1723729698432_id, log: {'file_id': '188', 'status': 'edit'}
+[INFO]docteamApp.py:163-21:48:18.436-re_id: 1723729698432_id, log: ImmutableMultiDict([('user_id', 'A')])
+[INFO]docteamApp.py:175-21:48:18.437-re_id: 1723729698432_id, log: check file
+[INFO]docteamApp.py:191-21:48:18.443-re_id: 1723729698432_id, log: sql handles
+[INFO]docteamApp.py:199-21:48:18.454-re_id: 1723729698432_id, log: sql res- ('188', 'A', 'edit')

@@ -1,0 +1,29 @@
+[STEP]21:19:04:159-caseLogs.py:54 >> Method Name:testCase01_must_key_check_0_groupId, Class Name:CreateGroupInput
+[STEP]21:19:04:160-caseLogs.py:55 >> Test Description:新增分组, 必填项缺失 [with key='groupId']
+[STEP]21:19:04:161-test_input.py:41 >> 【step】新增分组
+[INFO]21:19:04:162-httpReMethod.py:15 >> send url: http://note-api.wps.cn/v3/notesvr/set/notegroup
+[INFO]21:19:04:163-httpReMethod.py:16 >> send headers: {'Cookie': 'wps_sid=V02SL9txH_cJPTIUPyg0DO65PZgklCI00a28340c0036f58bfd', 'X-user-key': '922061821'}
+[INFO]21:19:04:164-httpReMethod.py:17 >> send body: {'groupName': 'groupName1', 'order': 0}
+[INFO]21:19:04:261-httpReMethod.py:23 >> recv code: 500
+[INFO]21:19:04:262-httpReMethod.py:24 >> recv body: {"errorCode":-7,"errorMsg":"参数不合法！"}
+[STEP]21:19:04:383-caseLogs.py:54 >> Method Name:testCase01_must_key_check_1_groupName, Class Name:CreateGroupInput
+[STEP]21:19:04:384-caseLogs.py:55 >> Test Description:新增分组, 必填项缺失 [with key='groupName']
+[STEP]21:19:04:385-test_input.py:41 >> 【step】新增分组
+[INFO]21:19:04:386-httpReMethod.py:15 >> send url: http://note-api.wps.cn/v3/notesvr/set/notegroup
+[INFO]21:19:04:386-httpReMethod.py:16 >> send headers: {'Cookie': 'wps_sid=V02SL9txH_cJPTIUPyg0DO65PZgklCI00a28340c0036f58bfd', 'X-user-key': '922061821'}
+[INFO]21:19:04:387-httpReMethod.py:17 >> send body: {'groupId': '1723468744384_groupId', 'order': 0}
+[INFO]21:19:04:486-httpReMethod.py:23 >> recv code: 500
+[INFO]21:19:04:487-httpReMethod.py:24 >> recv body: {"errorCode":-7,"errorMsg":"参数不合法！"}
+[STEP]21:19:04:610-caseLogs.py:54 >> Method Name:testCase01_major, Class Name:CreateGroupMajor
+[STEP]21:19:04:611-caseLogs.py:55 >> Test Description:新增分组的主流程
+[STEP]21:19:04:613-test_major.py:32 >> 【step】新增分组
+[INFO]21:19:04:614-httpReMethod.py:15 >> send url: http://note-api.wps.cn/v3/notesvr/set/notegroup
+[INFO]21:19:04:615-httpReMethod.py:16 >> send headers: {'Cookie': 'wps_sid=V02SL9txH_cJPTIUPyg0DO65PZgklCI00a28340c0036f58bfd', 'X-user-key': '922061821'}
+[INFO]21:19:04:615-httpReMethod.py:17 >> send body: {'groupId': '1723468744612_groupId', 'groupName': 'groupName1', 'order': 0}
+[INFO]21:19:04:739-httpReMethod.py:23 >> recv code: 200
+[INFO]21:19:04:740-httpReMethod.py:24 >> recv body: {"responseTime":26,"updateTime":1723468746744}
+[INFO]21:19:04:741-httpReMethod.py:15 >> send url: http://note-api.wps.cn/v3/notesvr/get/notegroup
+[INFO]21:19:04:741-httpReMethod.py:16 >> send headers: {'Cookie': 'wps_sid=V02SL9txH_cJPTIUPyg0DO65PZgklCI00a28340c0036f58bfd', 'X-user-key': '922061821'}
+[INFO]21:19:04:742-httpReMethod.py:17 >> send body: {'excludeInValid': True}
+[INFO]21:19:04:864-httpReMethod.py:23 >> recv code: 200
+[INFO]21:19:04:865-httpReMethod.py:24 >> recv body: {"noteGroups":[{"userId":"922061821","groupId":"1723468744612_groupId","groupName":"groupName1","order":0,"valid":1,"updateTime":1723468746744}],"requestTime":1723468746866}
